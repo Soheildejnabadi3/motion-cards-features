@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/motion-cards-features/static/css/main.ce23d270.css",
+    "main.js": "/motion-cards-features/static/js/main.9c8061e5.js",
+    "static/js/453.b90ec8cb.chunk.js": "/motion-cards-features/static/js/453.b90ec8cb.chunk.js",
+    "index.html": "/motion-cards-features/index.html",
+    "main.ce23d270.css.map": "/motion-cards-features/static/css/main.ce23d270.css.map",
+    "main.9c8061e5.js.map": "/motion-cards-features/static/js/main.9c8061e5.js.map",
+    "453.b90ec8cb.chunk.js.map": "/motion-cards-features/static/js/453.b90ec8cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce23d270.css",
+    "static/js/main.9c8061e5.js"
+  ]
+}
